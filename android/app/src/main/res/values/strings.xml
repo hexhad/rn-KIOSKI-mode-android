@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LockMeAsALauncher</string>
+    <string name="sample_device_admin">hashan</string>
+    <string name="sample_device_admin_description">lorem ipsum dolor sit</string>
 </resources>
