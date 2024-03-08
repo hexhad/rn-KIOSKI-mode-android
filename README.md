@@ -30,3 +30,13 @@ adb shell dpm set-device-owner com.lockmeasalauncher/com.rnlocktask.MyAdmin
 * [react-native-system-navigation-bar](https://www.npmjs.com/package/react-native-system-navigation-bar)
 * [lock-task-mode](https://developer.android.com/work/dpc/dedicated-devices/lock-task-mode)
 * [Native Modules](https://reactnative.dev/docs/native-modules-android)
+
+
+### Additional
+```bash
+adb shell dpm set-active-admin --user current com.lockmeasalauncher/com.rnlocktask.MyAdmin
+```
+
+```bash
+pod install --repo-update
+```
